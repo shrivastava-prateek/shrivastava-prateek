@@ -7,7 +7,6 @@
 <a href="https://www.hackerearth.com/@debugchaos" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/hackerearth.svg" alt="@debugchaos" width="22px" /></a>
 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrivastava-prateek&label=Profile%20views&color=0e75b6&style=flat" alt="shrivastava-prateek" /> </p>
 
 ---
@@ -25,7 +24,7 @@
 
 ---
 
-### Spotify Playing 🎧 <br>
+### 🎧 Spotify Playing <br>
 
 [<img src="https://spotify-now-playing-nikvq93oc-shrivastava-prateek.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/djayes90vzztiaae5j03620hp)
 
@@ -78,13 +77,21 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrivastava-prateek&repo=online-jsp-compiler&show_icons=true&layout=compact&theme=gotham" alt="online-jsp-compiler" />
 </a>
 
+---
 
-<!-- ![build](https://github.com/shrivastava-prateek/shrivastava-prateek/workflows/build/badge.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/shrivastava-prateek/shrivastava-prateek)
-![pv](https://pageview.vercel.app/?github_user=shrivastava-prateek) -->
+### 📊 Weekly Coding Stats <br>
+
+<!--START_SECTION:waka-->
+```text
+SQL          2 hrs 24 mins   ███████████████████████░░   91.46 % 
+Text         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Other        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+```
+<!--END_SECTION:waka-->
 
 <!-- 📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=shrivastava-prateek&hide_title=true&hide_border=true&langs_count=5) -->
+ [![Prateek Shrivastava's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=debugchaos)] -->
+
 
 ---
