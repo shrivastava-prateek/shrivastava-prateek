@@ -1,23 +1,24 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Prateek Shrivastava
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Prateek Shrivastava here
 
-<a href="https://t.me/shrivastavaprateek" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="debugchaos" width="22px" /></a>
+<!-- <a href="https://t.me/shrivastavaprateek" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="debugchaos" width="22px" /></a> -->
 <a href="https://twitter.com/debugchaos" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="debugchaos" width="22px" /></a>
 <a href="https://linkedin.com/in/shrivastava-prateek" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shrivastava-prateek" width="22px" /></a>
 <a href="https://www.hackerrank.com/debugchaos" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/hackerrank.svg" alt="debugchaos" width="22px" /></a>
 <a href="https://www.hackerearth.com/@debugchaos" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/hackerearth.svg" alt="@debugchaos" width="22px" /></a>
+<a href="https://www.tvtime.com/en/user/22466862/profile" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tvtime.svg" alt="22466862" width="22px" /></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrivastava-prateek&label=Profile%20views&color=0e75b6&style=flat" alt="shrivastava-prateek" /> </p>
 
 ---
 
-- 🔭 I’m currently working as a **Development Team Lead** having hands-on experience in Java, Spring, AngularJS and Oracle DB
+- 🔭 I’m currently working as a **Development Team Lead** on Java and Spring framework based projects. 
 
 - &#x1F310; Created online jsp compiler visit here: <a href="https://onlinejspcompiler.com"> Online JSP Compiler </a> 
 
-- 🌱 I’m currently learning **Kafka**
+- 🌱 I’m currently learning **Spring-Boot** and exploring System Design.
 
--  &#129309;‍ Let's share our experiences and learn together
+-  &#129309;‍ Let's share our experiences and grow together.
 
 <!-- <p align="center"> 
   <img src="https://profile-counter.glitch.me/shrivastava-prateek/count.svg" alt="Visitor Count" />
@@ -36,7 +37,6 @@
 
 <p align="left">
 <a href="https://angular.io" target="blank"><img  style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angularjs.svg" alt="angularjs" width="35px" /></a>
-<a href="https://www.arduino.cc/" target="_blank"> <img style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/arduino.svg" alt="arduino" width="30px" /> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img  style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" alt="docker" width="30px" /> </a> 
 <a href="https://git-scm.com/" target="_blank">  <img  style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" alt="git" width="30px" /> </a>
 <a href="https://gulpjs.com" target="_blank"> <img style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gulp.svg" alt="gulp" width="30px" /> </a> 
@@ -79,7 +79,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrivastava-prateek&repo=online-jsp-compiler&show_icons=true&layout=compact&theme=gotham" alt="online-jsp-compiler" />
 </a>
 
-<a href="https://github.com/shrivastava-prateek/angularjs-es6-webpack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shrivastava-prateek&repo=vaccinebot&show_icons=true&layout=compact&theme=gotham" alt="vaccinebot" />
-</a>
+---
+
+<!-- 📊 **This week I spent my time on**
+
+ [![Prateek Shrivastava's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=debugchaos)] -->
+
+
 ---
